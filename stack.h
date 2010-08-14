@@ -1,3 +1,22 @@
+//**********************************************************************
+// Stack.h
+//**********************************************************************
+//
+//		Application	: CLRS
+//		Author		: Sima Liu
+//		Description	: Stack class
+//
+//**********************************************************************
+/* 
+ * 
+ * Revison History
+ * Date		Author			Comments
+ * ----------	------------	-------------------
+ * 08/07 2010  Sima Liu	 	init
+ * 08/14 2010  Sima Liu		Stack implementation
+ * 
+ */ 
+
 #ifndef _STACK_H_
 #define _STACK_H_
 
